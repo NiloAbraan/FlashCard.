@@ -5,9 +5,9 @@ criaCartao (
 )
 
 criaCartao (
-  'Categoria'
-  'Pergunta'
-  'Resposta'
+  'Geografia'
+  'Qual a montanha mais alta do mundo?'
+  'Monte Everest'
 )
 
 criaCartao (
