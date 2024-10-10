@@ -1,7 +1,7 @@
 criaCartao (
-  'Categoria'
-  'Pergunta'
-  'Resposta'
+  'Matematica ',
+  'Qual o valor de Pi? ',
+  '3,14'
 )
 
 criaCartao (
