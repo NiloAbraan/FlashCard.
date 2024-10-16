@@ -5,26 +5,26 @@ criaCartao (
 )
 
 criaCartao (
-  'Geografia'
-  'Qual a montanha mais alta do mundo?'
+  'Geografia ',
+  'Qual a montanha mais alta do mundo? ',
   'Monte Everest'
 )
 
 criaCartao (
-  'Categoria'
-  'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?'
+  'Fisica ',
+  'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro? ',
   'Ambos têm o mesmo peso: 1 quilo. Mas, como precisamos de uma porção de algodão maior para compor 1 quilo, temos a sensação de que o mesmo peso de algodão é mais leve do que o chumbo.'
 )
 
 criaCartao (
-  'Categoria'
-  'Quais são as fases da Lua?'
+  'Astronomia ',
+  'Quais são as fases da Lua? ',
   'Nova, crescente, cheia e minguante'
 )
 
 criaCartao (
-  'Herois'
-  'Kryptonita é a fraqueza de qual super-herói?'
+  'Herois ',
+  'Kryptonita é a fraqueza de qual super-herói? ',
   'Super-Homem'
 )
 
