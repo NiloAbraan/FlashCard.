@@ -3,3 +3,5 @@ function criaCartao(categoria, pergunta, resposta) {
   let cartao = document.createElement('article')
   cartao.ClassName = cartao
 }
+
+cartao.innerHTML = `
