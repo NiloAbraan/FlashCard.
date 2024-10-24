@@ -1,4 +1,4 @@
-criaCartao (
+CriaCartao (
   'Matematica',
   'Qual o valor de Pi?',
   '3,14'
